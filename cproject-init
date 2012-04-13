@@ -1,0 +1,4 @@
+#!/bin/bash
+CPROJECT_HOME=XXXXXXX
+cp $CPROJECT_HOME/etc/cproject_template/Makefile* .
+
